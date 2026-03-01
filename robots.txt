@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://excitingsynonym.xyz/sitemap.xml
